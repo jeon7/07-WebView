@@ -13,6 +13,7 @@
 		8370BDEE2457901C000FBE50 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8370BDEC2457901C000FBE50 /* Main.storyboard */; };
 		8370BDF02457901F000FBE50 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8370BDEF2457901F000FBE50 /* Assets.xcassets */; };
 		8370BDF32457901F000FBE50 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8370BDF12457901F000FBE50 /* LaunchScreen.storyboard */; };
+		8370BDFB245A2C13000FBE50 /* htmlView.html in Resources */ = {isa = PBXBuildFile; fileRef = 8370BDFA245A2C13000FBE50 /* htmlView.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8370BDEF2457901F000FBE50 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8370BDF22457901F000FBE50 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8370BDF42457901F000FBE50 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8370BDFA245A2C13000FBE50 /* htmlView.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = htmlView.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				8370BDEF2457901F000FBE50 /* Assets.xcassets */,
 				8370BDF12457901F000FBE50 /* LaunchScreen.storyboard */,
 				8370BDF42457901F000FBE50 /* Info.plist */,
+				8370BDFA245A2C13000FBE50 /* htmlView.html */,
 			);
 			path = "07 WebView";
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8370BDFB245A2C13000FBE50 /* htmlView.html in Resources */,
 				8370BDF32457901F000FBE50 /* LaunchScreen.storyboard in Resources */,
 				8370BDF02457901F000FBE50 /* Assets.xcassets in Resources */,
 				8370BDEE2457901C000FBE50 /* Main.storyboard in Resources */,
